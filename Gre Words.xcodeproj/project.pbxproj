@@ -15,13 +15,41 @@
 		A04B5BF618E3F40200E995E0 /* SMSAppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = A04B5BF518E3F40200E995E0 /* SMSAppDelegate.m */; };
 		A04B5BF918E3F40200E995E0 /* Main_iPhone.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = A04B5BF718E3F40200E995E0 /* Main_iPhone.storyboard */; };
 		A04B5BFC18E3F40200E995E0 /* Main_iPad.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = A04B5BFA18E3F40200E995E0 /* Main_iPad.storyboard */; };
-		A04B5BFF18E3F40200E995E0 /* SMSViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = A04B5BFE18E3F40200E995E0 /* SMSViewController.m */; };
 		A04B5C0118E3F40200E995E0 /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = A04B5C0018E3F40200E995E0 /* Images.xcassets */; };
 		A04B5C0818E3F40200E995E0 /* XCTest.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = A04B5C0718E3F40200E995E0 /* XCTest.framework */; };
 		A04B5C0918E3F40200E995E0 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = A04B5BE518E3F40200E995E0 /* Foundation.framework */; };
 		A04B5C0A18E3F40200E995E0 /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = A04B5BE918E3F40200E995E0 /* UIKit.framework */; };
 		A04B5C1218E3F40200E995E0 /* InfoPlist.strings in Resources */ = {isa = PBXBuildFile; fileRef = A04B5C1018E3F40200E995E0 /* InfoPlist.strings */; };
 		A04B5C1418E3F40200E995E0 /* Gre_WordsTests.m in Sources */ = {isa = PBXBuildFile; fileRef = A04B5C1318E3F40200E995E0 /* Gre_WordsTests.m */; };
+		A04B5C1F18E3F51B00E995E0 /* SMSGreGroupListViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = A04B5C1E18E3F51B00E995E0 /* SMSGreGroupListViewController.m */; };
+		A04B5C2818E3FC5B00E995E0 /* SMSGreGroupAddViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = A04B5C2718E3FC5B00E995E0 /* SMSGreGroupAddViewController.m */; };
+		A04B5C2E18E4280A00E995E0 /* SMSGreGroupDisplayViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = A04B5C2D18E4280A00E995E0 /* SMSGreGroupDisplayViewController.m */; };
+		A04B5C3118E4283900E995E0 /* SMSGreSelectWordsViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = A04B5C3018E4283900E995E0 /* SMSGreSelectWordsViewController.m */; };
+		A04B5C4418E458FD00E995E0 /* SMSGreDataManager.m in Sources */ = {isa = PBXBuildFile; fileRef = A04B5C4318E458FD00E995E0 /* SMSGreDataManager.m */; };
+		A04B5C4718E45AF900E995E0 /* SMSGreItem.m in Sources */ = {isa = PBXBuildFile; fileRef = A04B5C4618E45AF900E995E0 /* SMSGreItem.m */; };
+		A04B5C4A18E485BE00E995E0 /* SMSGreStudyViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = A04B5C4918E485BE00E995E0 /* SMSGreStudyViewController.m */; };
+		A04B5C5F18E55AC600E995E0 /* SMSGreGroup.m in Sources */ = {isa = PBXBuildFile; fileRef = A04B5C5E18E55AC600E995E0 /* SMSGreGroup.m */; };
+		A04B5C6218E5B0EF00E995E0 /* SMSGreTestViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = A04B5C6118E5B0EF00E995E0 /* SMSGreTestViewController.m */; };
+		A05FD9DB190E68C800B8DB8A /* thumbnail-favorite.png in Resources */ = {isa = PBXBuildFile; fileRef = A05FD9D7190E68C800B8DB8A /* thumbnail-favorite.png */; };
+		A05FD9DC190E68C800B8DB8A /* thumbnail-favorite@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = A05FD9D8190E68C800B8DB8A /* thumbnail-favorite@2x.png */; };
+		A05FD9DD190E68C800B8DB8A /* toolbar-favourite.png in Resources */ = {isa = PBXBuildFile; fileRef = A05FD9D9190E68C800B8DB8A /* toolbar-favourite.png */; };
+		A05FD9DE190E68C800B8DB8A /* toolbar-favourite@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = A05FD9DA190E68C800B8DB8A /* toolbar-favourite@2x.png */; };
+		A05FD9E1190E6EED00B8DB8A /* Word.m in Sources */ = {isa = PBXBuildFile; fileRef = A05FD9E0190E6EED00B8DB8A /* Word.m */; };
+		A05FDA321911394A00B8DB8A /* strings.csv in Resources */ = {isa = PBXBuildFile; fileRef = A05FDA311911394A00B8DB8A /* strings.csv */; };
+		A06B903418EA878000EDCDBE /* SMSGreEditWordViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = A06B903318EA878000EDCDBE /* SMSGreEditWordViewController.m */; };
+		A06B903718EA8E1E00EDCDBE /* SMSGreDescriptionViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = A06B903618EA8E1E00EDCDBE /* SMSGreDescriptionViewController.m */; };
+		A06B903B18EAAB9900EDCDBE /* WordsCoreDataModel.xcdatamodeld in Sources */ = {isa = PBXBuildFile; fileRef = A06B903918EAAB9900EDCDBE /* WordsCoreDataModel.xcdatamodeld */; };
+		A06B90E718EAC4A200EDCDBE /* SMSGreDataModelManager.m in Sources */ = {isa = PBXBuildFile; fileRef = A06B90E618EAC4A200EDCDBE /* SMSGreDataModelManager.m */; };
+		A06B90E918EAC60C00EDCDBE /* CoreData.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = A06B90E818EAC60C00EDCDBE /* CoreData.framework */; };
+		A06B914118ED3B7600EDCDBE /* Groups.m in Sources */ = {isa = PBXBuildFile; fileRef = A06B914018ED3B7600EDCDBE /* Groups.m */; };
+		A06B915018EE544900EDCDBE /* WordsCoreDataModel.sqlite in Resources */ = {isa = PBXBuildFile; fileRef = A06B914F18EE544900EDCDBE /* WordsCoreDataModel.sqlite */; };
+		A06B915218EE554F00EDCDBE /* example.plist in Resources */ = {isa = PBXBuildFile; fileRef = A06B915118EE554F00EDCDBE /* example.plist */; };
+		A06B915518EEBCE600EDCDBE /* SMSGreSearchViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = A06B915418EEBCE600EDCDBE /* SMSGreSearchViewController.m */; };
+		A06B915818EEBDC700EDCDBE /* SMSGreWordsViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = A06B915718EEBDC700EDCDBE /* SMSGreWordsViewController.m */; };
+		A06B915B18EEBDFD00EDCDBE /* SMSGreWordAddViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = A06B915A18EEBDFD00EDCDBE /* SMSGreWordAddViewController.m */; };
+		A08D8DE4191BAB7E0026B431 /* GRE_Words.csv in Resources */ = {isa = PBXBuildFile; fileRef = A08D8DE3191BAB7E0026B431 /* GRE_Words.csv */; };
+		A0C500F018F448F200023077 /* SMSGreNewWord.m in Sources */ = {isa = PBXBuildFile; fileRef = A0C500EF18F448F200023077 /* SMSGreNewWord.m */; };
+		A0C5011918F6863400023077 /* SMSGreSerachWordDisplayViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = A0C5011818F6863400023077 /* SMSGreSerachWordDisplayViewController.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -47,14 +75,60 @@
 		A04B5BF518E3F40200E995E0 /* SMSAppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = SMSAppDelegate.m; sourceTree = "<group>"; };
 		A04B5BF818E3F40200E995E0 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main_iPhone.storyboard; sourceTree = "<group>"; };
 		A04B5BFB18E3F40200E995E0 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main_iPad.storyboard; sourceTree = "<group>"; };
-		A04B5BFD18E3F40200E995E0 /* SMSViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = SMSViewController.h; sourceTree = "<group>"; };
-		A04B5BFE18E3F40200E995E0 /* SMSViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = SMSViewController.m; sourceTree = "<group>"; };
 		A04B5C0018E3F40200E995E0 /* Images.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Images.xcassets; sourceTree = "<group>"; };
 		A04B5C0618E3F40200E995E0 /* Gre WordsTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "Gre WordsTests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
 		A04B5C0718E3F40200E995E0 /* XCTest.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = XCTest.framework; path = Library/Frameworks/XCTest.framework; sourceTree = DEVELOPER_DIR; };
 		A04B5C0F18E3F40200E995E0 /* Gre WordsTests-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "Gre WordsTests-Info.plist"; sourceTree = "<group>"; };
 		A04B5C1118E3F40200E995E0 /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
 		A04B5C1318E3F40200E995E0 /* Gre_WordsTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = Gre_WordsTests.m; sourceTree = "<group>"; };
+		A04B5C1D18E3F51B00E995E0 /* SMSGreGroupListViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = SMSGreGroupListViewController.h; sourceTree = "<group>"; };
+		A04B5C1E18E3F51B00E995E0 /* SMSGreGroupListViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = SMSGreGroupListViewController.m; sourceTree = "<group>"; };
+		A04B5C2618E3FC5B00E995E0 /* SMSGreGroupAddViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = SMSGreGroupAddViewController.h; sourceTree = "<group>"; };
+		A04B5C2718E3FC5B00E995E0 /* SMSGreGroupAddViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = SMSGreGroupAddViewController.m; sourceTree = "<group>"; };
+		A04B5C2C18E4280A00E995E0 /* SMSGreGroupDisplayViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = SMSGreGroupDisplayViewController.h; sourceTree = "<group>"; };
+		A04B5C2D18E4280A00E995E0 /* SMSGreGroupDisplayViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = SMSGreGroupDisplayViewController.m; sourceTree = "<group>"; };
+		A04B5C2F18E4283900E995E0 /* SMSGreSelectWordsViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = SMSGreSelectWordsViewController.h; sourceTree = "<group>"; };
+		A04B5C3018E4283900E995E0 /* SMSGreSelectWordsViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = SMSGreSelectWordsViewController.m; sourceTree = "<group>"; };
+		A04B5C4218E458FD00E995E0 /* SMSGreDataManager.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = SMSGreDataManager.h; sourceTree = "<group>"; };
+		A04B5C4318E458FD00E995E0 /* SMSGreDataManager.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = SMSGreDataManager.m; sourceTree = "<group>"; };
+		A04B5C4518E45AF900E995E0 /* SMSGreItem.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = SMSGreItem.h; sourceTree = "<group>"; };
+		A04B5C4618E45AF900E995E0 /* SMSGreItem.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = SMSGreItem.m; sourceTree = "<group>"; };
+		A04B5C4818E485BE00E995E0 /* SMSGreStudyViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = SMSGreStudyViewController.h; sourceTree = "<group>"; };
+		A04B5C4918E485BE00E995E0 /* SMSGreStudyViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = SMSGreStudyViewController.m; sourceTree = "<group>"; };
+		A04B5C5D18E55AC600E995E0 /* SMSGreGroup.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = SMSGreGroup.h; sourceTree = "<group>"; };
+		A04B5C5E18E55AC600E995E0 /* SMSGreGroup.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = SMSGreGroup.m; sourceTree = "<group>"; };
+		A04B5C6018E5B0EF00E995E0 /* SMSGreTestViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = SMSGreTestViewController.h; sourceTree = "<group>"; };
+		A04B5C6118E5B0EF00E995E0 /* SMSGreTestViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = SMSGreTestViewController.m; sourceTree = "<group>"; };
+		A05FD9D7190E68C800B8DB8A /* thumbnail-favorite.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "thumbnail-favorite.png"; path = "Gre Words/thumbnail-favorite.png"; sourceTree = "<group>"; };
+		A05FD9D8190E68C800B8DB8A /* thumbnail-favorite@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "thumbnail-favorite@2x.png"; path = "Gre Words/thumbnail-favorite@2x.png"; sourceTree = "<group>"; };
+		A05FD9D9190E68C800B8DB8A /* toolbar-favourite.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "toolbar-favourite.png"; path = "Gre Words/toolbar-favourite.png"; sourceTree = "<group>"; };
+		A05FD9DA190E68C800B8DB8A /* toolbar-favourite@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "toolbar-favourite@2x.png"; path = "Gre Words/toolbar-favourite@2x.png"; sourceTree = "<group>"; };
+		A05FD9DF190E6EED00B8DB8A /* Word.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Word.h; sourceTree = "<group>"; };
+		A05FD9E0190E6EED00B8DB8A /* Word.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = Word.m; sourceTree = "<group>"; };
+		A05FDA311911394A00B8DB8A /* strings.csv */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = strings.csv; sourceTree = "<group>"; };
+		A06B903218EA878000EDCDBE /* SMSGreEditWordViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = SMSGreEditWordViewController.h; sourceTree = "<group>"; };
+		A06B903318EA878000EDCDBE /* SMSGreEditWordViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = SMSGreEditWordViewController.m; sourceTree = "<group>"; };
+		A06B903518EA8E1E00EDCDBE /* SMSGreDescriptionViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = SMSGreDescriptionViewController.h; sourceTree = "<group>"; };
+		A06B903618EA8E1E00EDCDBE /* SMSGreDescriptionViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = SMSGreDescriptionViewController.m; sourceTree = "<group>"; };
+		A06B903A18EAAB9900EDCDBE /* WordsCoreDataModel.xcdatamodel */ = {isa = PBXFileReference; lastKnownFileType = wrapper.xcdatamodel; path = WordsCoreDataModel.xcdatamodel; sourceTree = "<group>"; };
+		A06B90E518EAC4A200EDCDBE /* SMSGreDataModelManager.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = SMSGreDataModelManager.h; sourceTree = "<group>"; };
+		A06B90E618EAC4A200EDCDBE /* SMSGreDataModelManager.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = SMSGreDataModelManager.m; sourceTree = "<group>"; };
+		A06B90E818EAC60C00EDCDBE /* CoreData.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreData.framework; path = System/Library/Frameworks/CoreData.framework; sourceTree = SDKROOT; };
+		A06B913F18ED3B7600EDCDBE /* Groups.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Groups.h; sourceTree = "<group>"; };
+		A06B914018ED3B7600EDCDBE /* Groups.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = Groups.m; sourceTree = "<group>"; };
+		A06B914F18EE544900EDCDBE /* WordsCoreDataModel.sqlite */ = {isa = PBXFileReference; lastKnownFileType = file; path = WordsCoreDataModel.sqlite; sourceTree = "<group>"; };
+		A06B915118EE554F00EDCDBE /* example.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = example.plist; sourceTree = "<group>"; };
+		A06B915318EEBCE600EDCDBE /* SMSGreSearchViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = SMSGreSearchViewController.h; sourceTree = "<group>"; };
+		A06B915418EEBCE600EDCDBE /* SMSGreSearchViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = SMSGreSearchViewController.m; sourceTree = "<group>"; };
+		A06B915618EEBDC700EDCDBE /* SMSGreWordsViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = SMSGreWordsViewController.h; sourceTree = "<group>"; };
+		A06B915718EEBDC700EDCDBE /* SMSGreWordsViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = SMSGreWordsViewController.m; sourceTree = "<group>"; };
+		A06B915918EEBDFD00EDCDBE /* SMSGreWordAddViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = SMSGreWordAddViewController.h; sourceTree = "<group>"; };
+		A06B915A18EEBDFD00EDCDBE /* SMSGreWordAddViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = SMSGreWordAddViewController.m; sourceTree = "<group>"; };
+		A08D8DE3191BAB7E0026B431 /* GRE_Words.csv */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.xml; name = GRE_Words.csv; path = "Gre Words/GRE_Words.csv"; sourceTree = "<group>"; };
+		A0C500EE18F448F200023077 /* SMSGreNewWord.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = SMSGreNewWord.h; sourceTree = "<group>"; };
+		A0C500EF18F448F200023077 /* SMSGreNewWord.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = SMSGreNewWord.m; sourceTree = "<group>"; };
+		A0C5011718F6863400023077 /* SMSGreSerachWordDisplayViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = SMSGreSerachWordDisplayViewController.h; sourceTree = "<group>"; };
+		A0C5011818F6863400023077 /* SMSGreSerachWordDisplayViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = SMSGreSerachWordDisplayViewController.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -62,6 +136,7 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				A06B90E918EAC60C00EDCDBE /* CoreData.framework in Frameworks */,
 				A04B5BE818E3F40200E995E0 /* CoreGraphics.framework in Frameworks */,
 				A04B5BEA18E3F40200E995E0 /* UIKit.framework in Frameworks */,
 				A04B5BE618E3F40200E995E0 /* Foundation.framework in Frameworks */,
@@ -84,6 +159,9 @@
 		A04B5BD918E3F40200E995E0 = {
 			isa = PBXGroup;
 			children = (
+				A05FD9D6190E68A700B8DB8A /* Resources */,
+				A06B915118EE554F00EDCDBE /* example.plist */,
+				A06B914F18EE544900EDCDBE /* WordsCoreDataModel.sqlite */,
 				A04B5BEB18E3F40200E995E0 /* Gre Words */,
 				A04B5C0D18E3F40200E995E0 /* Gre WordsTests */,
 				A04B5BE418E3F40200E995E0 /* Frameworks */,
@@ -103,6 +181,7 @@
 		A04B5BE418E3F40200E995E0 /* Frameworks */ = {
 			isa = PBXGroup;
 			children = (
+				A06B90E818EAC60C00EDCDBE /* CoreData.framework */,
 				A04B5BE518E3F40200E995E0 /* Foundation.framework */,
 				A04B5BE718E3F40200E995E0 /* CoreGraphics.framework */,
 				A04B5BE918E3F40200E995E0 /* UIKit.framework */,
@@ -114,12 +193,11 @@
 		A04B5BEB18E3F40200E995E0 /* Gre Words */ = {
 			isa = PBXGroup;
 			children = (
-				A04B5BF418E3F40200E995E0 /* SMSAppDelegate.h */,
-				A04B5BF518E3F40200E995E0 /* SMSAppDelegate.m */,
-				A04B5BF718E3F40200E995E0 /* Main_iPhone.storyboard */,
-				A04B5BFA18E3F40200E995E0 /* Main_iPad.storyboard */,
-				A04B5BFD18E3F40200E995E0 /* SMSViewController.h */,
-				A04B5BFE18E3F40200E995E0 /* SMSViewController.m */,
+				A0C500ED18F4481100023077 /* Utility */,
+				A06B903818EAA7F000EDCDBE /* Model */,
+				A04B5C4118E458D000E995E0 /* Managers */,
+				A04B5C3218E42F1B00E995E0 /* Main */,
+				A04B5C2018E3F52400E995E0 /* Controllers */,
 				A04B5C0018E3F40200E995E0 /* Images.xcassets */,
 				A04B5BEC18E3F40200E995E0 /* Supporting Files */,
 			);
@@ -129,6 +207,7 @@
 		A04B5BEC18E3F40200E995E0 /* Supporting Files */ = {
 			isa = PBXGroup;
 			children = (
+				A05FDA311911394A00B8DB8A /* strings.csv */,
 				A04B5BED18E3F40200E995E0 /* Gre Words-Info.plist */,
 				A04B5BEE18E3F40200E995E0 /* InfoPlist.strings */,
 				A04B5BF118E3F40200E995E0 /* main.m */,
@@ -153,6 +232,96 @@
 				A04B5C1018E3F40200E995E0 /* InfoPlist.strings */,
 			);
 			name = "Supporting Files";
+			sourceTree = "<group>";
+		};
+		A04B5C2018E3F52400E995E0 /* Controllers */ = {
+			isa = PBXGroup;
+			children = (
+				A04B5C1D18E3F51B00E995E0 /* SMSGreGroupListViewController.h */,
+				A04B5C1E18E3F51B00E995E0 /* SMSGreGroupListViewController.m */,
+				A04B5C2618E3FC5B00E995E0 /* SMSGreGroupAddViewController.h */,
+				A04B5C2718E3FC5B00E995E0 /* SMSGreGroupAddViewController.m */,
+				A04B5C2C18E4280A00E995E0 /* SMSGreGroupDisplayViewController.h */,
+				A04B5C2D18E4280A00E995E0 /* SMSGreGroupDisplayViewController.m */,
+				A04B5C2F18E4283900E995E0 /* SMSGreSelectWordsViewController.h */,
+				A04B5C3018E4283900E995E0 /* SMSGreSelectWordsViewController.m */,
+				A04B5C4818E485BE00E995E0 /* SMSGreStudyViewController.h */,
+				A04B5C4918E485BE00E995E0 /* SMSGreStudyViewController.m */,
+				A04B5C6018E5B0EF00E995E0 /* SMSGreTestViewController.h */,
+				A04B5C6118E5B0EF00E995E0 /* SMSGreTestViewController.m */,
+				A06B903218EA878000EDCDBE /* SMSGreEditWordViewController.h */,
+				A06B903318EA878000EDCDBE /* SMSGreEditWordViewController.m */,
+				A06B903518EA8E1E00EDCDBE /* SMSGreDescriptionViewController.h */,
+				A06B903618EA8E1E00EDCDBE /* SMSGreDescriptionViewController.m */,
+				A06B915318EEBCE600EDCDBE /* SMSGreSearchViewController.h */,
+				A06B915418EEBCE600EDCDBE /* SMSGreSearchViewController.m */,
+				A06B915618EEBDC700EDCDBE /* SMSGreWordsViewController.h */,
+				A06B915718EEBDC700EDCDBE /* SMSGreWordsViewController.m */,
+				A06B915918EEBDFD00EDCDBE /* SMSGreWordAddViewController.h */,
+				A06B915A18EEBDFD00EDCDBE /* SMSGreWordAddViewController.m */,
+				A0C5011718F6863400023077 /* SMSGreSerachWordDisplayViewController.h */,
+				A0C5011818F6863400023077 /* SMSGreSerachWordDisplayViewController.m */,
+			);
+			name = Controllers;
+			sourceTree = "<group>";
+		};
+		A04B5C3218E42F1B00E995E0 /* Main */ = {
+			isa = PBXGroup;
+			children = (
+				A04B5BF418E3F40200E995E0 /* SMSAppDelegate.h */,
+				A04B5BF518E3F40200E995E0 /* SMSAppDelegate.m */,
+				A04B5BF718E3F40200E995E0 /* Main_iPhone.storyboard */,
+				A04B5BFA18E3F40200E995E0 /* Main_iPad.storyboard */,
+			);
+			name = Main;
+			sourceTree = "<group>";
+		};
+		A04B5C4118E458D000E995E0 /* Managers */ = {
+			isa = PBXGroup;
+			children = (
+				A04B5C4218E458FD00E995E0 /* SMSGreDataManager.h */,
+				A04B5C4318E458FD00E995E0 /* SMSGreDataManager.m */,
+				A04B5C4518E45AF900E995E0 /* SMSGreItem.h */,
+				A04B5C4618E45AF900E995E0 /* SMSGreItem.m */,
+				A04B5C5D18E55AC600E995E0 /* SMSGreGroup.h */,
+				A04B5C5E18E55AC600E995E0 /* SMSGreGroup.m */,
+			);
+			name = Managers;
+			sourceTree = "<group>";
+		};
+		A05FD9D6190E68A700B8DB8A /* Resources */ = {
+			isa = PBXGroup;
+			children = (
+				A08D8DE3191BAB7E0026B431 /* GRE_Words.csv */,
+				A05FD9D7190E68C800B8DB8A /* thumbnail-favorite.png */,
+				A05FD9D8190E68C800B8DB8A /* thumbnail-favorite@2x.png */,
+				A05FD9D9190E68C800B8DB8A /* toolbar-favourite.png */,
+				A05FD9DA190E68C800B8DB8A /* toolbar-favourite@2x.png */,
+			);
+			name = Resources;
+			sourceTree = "<group>";
+		};
+		A06B903818EAA7F000EDCDBE /* Model */ = {
+			isa = PBXGroup;
+			children = (
+				A06B903918EAAB9900EDCDBE /* WordsCoreDataModel.xcdatamodeld */,
+				A05FD9DF190E6EED00B8DB8A /* Word.h */,
+				A05FD9E0190E6EED00B8DB8A /* Word.m */,
+				A06B913F18ED3B7600EDCDBE /* Groups.h */,
+				A06B914018ED3B7600EDCDBE /* Groups.m */,
+				A06B90E518EAC4A200EDCDBE /* SMSGreDataModelManager.h */,
+				A06B90E618EAC4A200EDCDBE /* SMSGreDataModelManager.m */,
+			);
+			name = Model;
+			sourceTree = "<group>";
+		};
+		A0C500ED18F4481100023077 /* Utility */ = {
+			isa = PBXGroup;
+			children = (
+				A0C500EE18F448F200023077 /* SMSGreNewWord.h */,
+				A0C500EF18F448F200023077 /* SMSGreNewWord.m */,
+			);
+			name = Utility;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -234,8 +403,16 @@
 			files = (
 				A04B5BFC18E3F40200E995E0 /* Main_iPad.storyboard in Resources */,
 				A04B5C0118E3F40200E995E0 /* Images.xcassets in Resources */,
+				A05FD9DD190E68C800B8DB8A /* toolbar-favourite.png in Resources */,
+				A08D8DE4191BAB7E0026B431 /* GRE_Words.csv in Resources */,
+				A05FD9DB190E68C800B8DB8A /* thumbnail-favorite.png in Resources */,
+				A05FD9DE190E68C800B8DB8A /* toolbar-favourite@2x.png in Resources */,
 				A04B5BF918E3F40200E995E0 /* Main_iPhone.storyboard in Resources */,
+				A06B915218EE554F00EDCDBE /* example.plist in Resources */,
 				A04B5BF018E3F40200E995E0 /* InfoPlist.strings in Resources */,
+				A06B915018EE544900EDCDBE /* WordsCoreDataModel.sqlite in Resources */,
+				A05FDA321911394A00B8DB8A /* strings.csv in Resources */,
+				A05FD9DC190E68C800B8DB8A /* thumbnail-favorite@2x.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -254,9 +431,28 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				A04B5C2E18E4280A00E995E0 /* SMSGreGroupDisplayViewController.m in Sources */,
 				A04B5BF618E3F40200E995E0 /* SMSAppDelegate.m in Sources */,
+				A0C500F018F448F200023077 /* SMSGreNewWord.m in Sources */,
+				A06B903B18EAAB9900EDCDBE /* WordsCoreDataModel.xcdatamodeld in Sources */,
+				A06B915818EEBDC700EDCDBE /* SMSGreWordsViewController.m in Sources */,
+				A06B915518EEBCE600EDCDBE /* SMSGreSearchViewController.m in Sources */,
+				A0C5011918F6863400023077 /* SMSGreSerachWordDisplayViewController.m in Sources */,
+				A06B914118ED3B7600EDCDBE /* Groups.m in Sources */,
+				A04B5C2818E3FC5B00E995E0 /* SMSGreGroupAddViewController.m in Sources */,
+				A06B903418EA878000EDCDBE /* SMSGreEditWordViewController.m in Sources */,
+				A04B5C4418E458FD00E995E0 /* SMSGreDataManager.m in Sources */,
+				A06B903718EA8E1E00EDCDBE /* SMSGreDescriptionViewController.m in Sources */,
+				A04B5C5F18E55AC600E995E0 /* SMSGreGroup.m in Sources */,
+				A05FD9E1190E6EED00B8DB8A /* Word.m in Sources */,
 				A04B5BF218E3F40200E995E0 /* main.m in Sources */,
-				A04B5BFF18E3F40200E995E0 /* SMSViewController.m in Sources */,
+				A06B90E718EAC4A200EDCDBE /* SMSGreDataModelManager.m in Sources */,
+				A06B915B18EEBDFD00EDCDBE /* SMSGreWordAddViewController.m in Sources */,
+				A04B5C3118E4283900E995E0 /* SMSGreSelectWordsViewController.m in Sources */,
+				A04B5C4A18E485BE00E995E0 /* SMSGreStudyViewController.m in Sources */,
+				A04B5C1F18E3F51B00E995E0 /* SMSGreGroupListViewController.m in Sources */,
+				A04B5C6218E5B0EF00E995E0 /* SMSGreTestViewController.m in Sources */,
+				A04B5C4718E45AF900E995E0 /* SMSGreItem.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -475,6 +671,7 @@
 				A04B5C1918E3F40200E995E0 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		A04B5C1A18E3F40200E995E0 /* Build configuration list for PBXNativeTarget "Gre WordsTests" */ = {
 			isa = XCConfigurationList;
@@ -483,8 +680,22 @@
 				A04B5C1C18E3F40200E995E0 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
+
+/* Begin XCVersionGroup section */
+		A06B903918EAAB9900EDCDBE /* WordsCoreDataModel.xcdatamodeld */ = {
+			isa = XCVersionGroup;
+			children = (
+				A06B903A18EAAB9900EDCDBE /* WordsCoreDataModel.xcdatamodel */,
+			);
+			currentVersion = A06B903A18EAAB9900EDCDBE /* WordsCoreDataModel.xcdatamodel */;
+			path = WordsCoreDataModel.xcdatamodeld;
+			sourceTree = "<group>";
+			versionGroupType = wrapper.xcdatamodel;
+		};
+/* End XCVersionGroup section */
 	};
 	rootObject = A04B5BDA18E3F40200E995E0 /* Project object */;
 }

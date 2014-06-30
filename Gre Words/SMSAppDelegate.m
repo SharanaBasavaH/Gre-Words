@@ -7,11 +7,19 @@
 //
 
 #import "SMSAppDelegate.h"
+#import "SMSGreDataManager.h"
+#import "SMSGreSearchViewController.h"
 
 @implementation SMSAppDelegate
 
 - (BOOL)application:(UIApplication *)application didFinishLaunchingWithOptions:(NSDictionary *)launchOptions
 {
+    SMSAppDelegate *appDelegate = (SMSAppDelegate *)[[UIApplication sharedApplication] delegate];
+    tabBar = (UITabBarController *)appDelegate.window.rootViewController;
+    tabBar.delegate = self;
+    
+    self.backGroundColor  = [[UIColor alloc] initWithRed: 255/255 green: 255/255 blue: 255/255 alpha: 1.0];
+    
     // Override point for customization after application launch.
     return YES;
 }
@@ -41,6 +49,36 @@
 - (void)applicationWillTerminate:(UIApplication *)application
 {
     // Called when the application is about to terminate. Save data if appropriate. See also applicationDidEnterBackground:.
+}
+
+
+- (void)tabBarController:(UITabBarController *)theTabBarController didSelectViewController:(UIViewController *)viewController {
+    
+    SMSGreDataManager *dm = [SMSGreDataManager sharedDataManager];
+    dm.selectedTabBarIndex = theTabBarController.selectedIndex;
+}
+
+
++ (SMSAppDelegate *)appDelegate
+{
+    return (SMSAppDelegate *)[[UIApplication sharedApplication] delegate];
+}
+
+-(void) setNavigationBarBackGroundColor:(UINavigationController*) navBar
+{
+    NSArray *ver = [[UIDevice currentDevice].systemVersion componentsSeparatedByString:@"."];
+    if ([[ver objectAtIndex:0] intValue] >= 7) {
+        navBar.navigationBar.barTintColor = [[UIColor alloc] initWithRed: 34.0/255 green: 142.0/255 blue: 129.0/255 alpha: 1.0];
+        navBar.navigationBar.translucent = NO;
+    }else {
+        navBar.navigationBar.tintColor = [[UIColor alloc] initWithRed: 34.0/255 green: 142.0/255 blue: 129.0/255 alpha: 1.0];
+    }
+    
+    //[[UITabBar appearance] setTintColor:[UIColor redColor]];
+  // [tabBar.tabBar setBarTintColor:[[UIColor alloc] initWithRed: 34.0/255 green: 142.0/255 blue: 129.0/255 alpha: 1.0]];
+
+    //[[UITabBar appearance] setTintColor:[UIColor redColor]];
+    //[[UITabBar appearance] setBarTintColor:[UIColor yellowColor]];
 }
 
 @end

@@ -1,0 +1,1388 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>word</key>
+		<string>abase</string>
+		<key>verb</key>
+		<string>lower; humiliate. Defeated</string>
+		<key>verbDescription</key>
+		<string>Queen Zenobia was forced to abase herself before the conquering Romans, who made her march in chains before the emperor in the procession celebrating his triumph.</string>
+		<key>noun</key>
+		<string></string>
+		<key>nounDescription</key>
+		<string></string>
+		<key>adj</key>
+		<string></string>
+		<key>adjDescription</key>
+		<string></string>
+	</dict>
+	<dict>
+		<key>word</key>
+		<string>abash</string>
+		<key>verb</key>
+		<string>embarrass.</string>
+		<key>verbDescription</key>
+		<string>He was not at all abashed by her open admiration.</string>
+		<key>noun</key>
+		<string></string>
+		<key>nounDescription</key>
+		<string></string>
+		<key>adj</key>
+		<string></string>
+		<key>adjDescription</key>
+		<string></string>
+	</dict>
+	<dict>
+		<key>word</key>
+		<string>abate</string>
+		<key>verb</key>
+		<string>subside; decrease, lessen.</string>
+		<key>verbDescription</key>
+		<string>Rather than leaving immediately, they waited for the storm to abate</string>
+		<key>noun</key>
+		<string></string>
+		<key>nounDescription</key>
+		<string></string>
+		<key>adj</key>
+		<string></string>
+		<key>adjDescription</key>
+		<string></string>
+	</dict>
+	<dict>
+		<key>word</key>
+		<string>abbreviate</string>
+		<key>verb</key>
+		<string>shorten</string>
+		<key>verbDescription</key>
+		<string>Because we were running out of time, the lecturer had to abbreviate her speech.</string>
+		<key>noun</key>
+		<string></string>
+		<key>nounDescription</key>
+		<string></string>
+		<key>adj</key>
+		<string></string>
+		<key>adjDescription</key>
+		<string></string>
+	</dict>
+	<dict>
+		<key>word</key>
+		<string>abdicate</string>
+		<key>verb</key>
+		<string>enounce; give up.</string>
+		<key>verbDescription</key>
+		<string>When Edward VIII abdicated the British throne to marry the woman he loved, he surprised the entire world.</string>
+		<key>noun</key>
+		<string></string>
+		<key>nounDescription</key>
+		<string></string>
+		<key>adj</key>
+		<string></string>
+		<key>adjDescription</key>
+		<string></string>
+	</dict>
+	<dict>
+		<key>word</key>
+		<string>abduction</string>
+		<key>verb</key>
+		<string></string>
+		<key>verbDescription</key>
+		<string></string>
+		<key>noun</key>
+		<string>kidnapping</string>
+		<key>nounDescription</key>
+		<string>The movie Ransom describes the attempts to rescue a multimillionaire&apos;s son after the child&apos;s abduction by kidnappers.</string>
+		<key>adj</key>
+		<string></string>
+		<key>adjDescription</key>
+		<string></string>
+	</dict>
+	<dict>
+		<key>word</key>
+		<string>aberrant</string>
+		<key>verb</key>
+		<string></string>
+		<key>verbDescription</key>
+		<string></string>
+		<key>noun</key>
+		<string>abnormal or deviant.</string>
+		<key>nounDescription</key>
+		<string>Given the aberrant nature of the data, we doubted the validity of the entire experiment.</string>
+		<key>adj</key>
+		<string></string>
+		<key>adjDescription</key>
+		<string></string>
+	</dict>
+	<dict>
+		<key>word</key>
+		<string>abet</string>
+		<key>verb</key>
+		<string>aid, usually in doing something wrong; encourage.</string>
+		<key>verbDescription</key>
+		<string>She was unwilling to abet him in the swindle he had planned.
+</string>
+		<key>noun</key>
+		<string></string>
+		<key>nounDescription</key>
+		<string></string>
+		<key>adj</key>
+		<string></string>
+		<key>adjDescription</key>
+		<string></string>
+	</dict>
+	<dict>
+		<key>word</key>
+		<string>abeyance</string>
+		<key>verb</key>
+		<string></string>
+		<key>verbDescription</key>
+		<string></string>
+		<key>noun</key>
+		<string>suspended action</string>
+		<key>nounDescription</key>
+		<string>The deal was held in abeyance until her arrival.</string>
+		<key>adj</key>
+		<string></string>
+		<key>adjDescription</key>
+		<string></string>
+	</dict>
+	<dict>
+		<key>word</key>
+		<string>abhor</string>
+		<key>verb</key>
+		<string>detest; hate.</string>
+		<key>verbDescription</key>
+		<string>She abhorred all forms of bigotry.</string>
+		<key>noun</key>
+		<string></string>
+		<key>nounDescription</key>
+		<string></string>
+		<key>adj</key>
+		<string></string>
+		<key>adjDescription</key>
+		<string></string>
+	</dict>
+	<dict>
+		<key>word</key>
+		<string>abject</string>
+		<key>verb</key>
+		<string></string>
+		<key>verbDescription</key>
+		<string></string>
+		<key>noun</key>
+		<string></string>
+		<key>nounDescription</key>
+		<string></string>
+		<key>adj</key>
+		<string>wretched; lacking pride.</string>
+		<key>adjDescription</key>
+		<string>On the streets of New York the homeless live in abject poverty, huddling in doorways to find shelter from the wind.</string>
+	</dict>
+	<dict>
+		<key>word</key>
+		<string>abjure</string>
+		<key>verb</key>
+		<string>renounce upon oath</string>
+		<key>verbDescription</key>
+		<string>He abjured his allegiance to the king.</string>
+		<key>noun</key>
+		<string></string>
+		<key>nounDescription</key>
+		<string></string>
+		<key>adj</key>
+		<string></string>
+		<key>adjDescription</key>
+		<string></string>
+	</dict>
+	<dict>
+		<key>word</key>
+		<string>ablution</string>
+		<key>verb</key>
+		<string></string>
+		<key>verbDescription</key>
+		<string></string>
+		<key>noun</key>
+		<string>washing</string>
+		<key>nounDescription</key>
+		<string>His daily ablutions were accompanied by loud noises that he humorously labeled
+&quot;Opera in the Bath.</string>
+		<key>adj</key>
+		<string></string>
+		<key>adjDescription</key>
+		<string></string>
+	</dict>
+	<dict>
+		<key>word</key>
+		<string>abnegation</string>
+		<key>verb</key>
+		<string></string>
+		<key>verbDescription</key>
+		<string></string>
+		<key>noun</key>
+		<string>repudiation; self-sacrifice.</string>
+		<key>nounDescription</key>
+		<string>No act of abnegation was more pronounced than his refusal of any rewards for his discovery.</string>
+		<key>adj</key>
+		<string></string>
+		<key>adjDescription</key>
+		<string></string>
+	</dict>
+	<dict>
+		<key>word</key>
+		<string>abolish</string>
+		<key>verb</key>
+		<string>cancel; put an end to.</string>
+		<key>verbDescription</key>
+		<string>The president of the college refused to abolish the physical education requirement.</string>
+		<key>noun</key>
+		<string></string>
+		<key>nounDescription</key>
+		<string></string>
+		<key>adj</key>
+		<string></string>
+		<key>adjDescription</key>
+		<string></string>
+	</dict>
+	<dict>
+		<key>word</key>
+		<string>abominable</string>
+		<key>verb</key>
+		<string></string>
+		<key>verbDescription</key>
+		<string></string>
+		<key>noun</key>
+		<string></string>
+		<key>nounDescription</key>
+		<string></string>
+		<key>adj</key>
+		<string>detestable; extremely unpleasant; very bad.</string>
+		<key>adjDescription</key>
+		<string>Mary liked John until she learned he was dating Susan; then she called him an abominable young man, with abominable taste in women.</string>
+	</dict>
+	<dict>
+		<key>word</key>
+		<string>aboriginal</string>
+		<key>verb</key>
+		<string></string>
+		<key>verbDescription</key>
+		<string></string>
+		<key>noun</key>
+		<string></string>
+		<key>nounDescription</key>
+		<string></string>
+		<key>adj</key>
+		<string>being the first of its kind in a region; primitive; native.</string>
+		<key>adjDescription</key>
+		<string>Her studies of the primitive art forms of the aboriginal Indians were widely reported in the scientific journals.</string>
+	</dict>
+	<dict>
+		<key>word</key>
+		<string>abortive</string>
+		<key>verb</key>
+		<string></string>
+		<key>verbDescription</key>
+		<string></string>
+		<key>noun</key>
+		<string></string>
+		<key>nounDescription</key>
+		<string></string>
+		<key>adj</key>
+		<string>unsuccessful; fruitless.</string>
+		<key>adjDescription</key>
+		<string>Attacked by armed troops, the Chinese students had to abandon their abortive attempt to democratize Beijing peacefully.</string>
+	</dict>
+	<dict>
+		<key>word</key>
+		<string>abrade</string>
+		<key>verb</key>
+		<string>wear away by friction; scrape; erode. </string>
+		<key>verbDescription</key>
+		<string>The sharp rocks abraded the skin on her legs, so she put iodine on her abrasions.</string>
+		<key>noun</key>
+		<string></string>
+		<key>nounDescription</key>
+		<string></string>
+		<key>adj</key>
+		<string></string>
+		<key>adjDescription</key>
+		<string></string>
+	</dict>
+	<dict>
+		<key>word</key>
+		<string>abrasive</string>
+		<key>verb</key>
+		<string></string>
+		<key>verbDescription</key>
+		<string></string>
+		<key>noun</key>
+		<string></string>
+		<key>nounDescription</key>
+		<string></string>
+		<key>adj</key>
+		<string>rubbing away; tending to grind down.</string>
+		<key>adjDescription</key>
+		<string>Just as abrasive cleaning powders can wear away a shiny finish, abrasive remarks can wear away a listener&apos;s patience.</string>
+	</dict>
+	<dict>
+		<key>word</key>
+		<string>abridge</string>
+		<key>verb</key>
+		<string>condense or shorten.</string>
+		<key>verbDescription</key>
+		<string>Because the publishers felt the public wanted a shorter version of War and Peace, they proceeded to abridge the novel.</string>
+		<key>noun</key>
+		<string></string>
+		<key>nounDescription</key>
+		<string></string>
+		<key>adj</key>
+		<string></string>
+		<key>adjDescription</key>
+		<string></string>
+	</dict>
+	<dict>
+		<key>word</key>
+		<string>abrogate</string>
+		<key>verb</key>
+		<string></string>
+		<key>verbDescription</key>
+		<string></string>
+		<key>noun</key>
+		<string></string>
+		<key>nounDescription</key>
+		<string></string>
+		<key>adj</key>
+		<string>abolish.</string>
+		<key>adjDescription</key>
+		<string>He intended to abrogate the decree issued by his predecessor.</string>
+	</dict>
+	<dict>
+		<key>word</key>
+		<string>abscond</string>
+		<key>verb</key>
+		<string>depart secretly and hide.</string>
+		<key>verbDescription</key>
+		<string>The teller who absconded with the bonds went uncaptured until someone recognized him from his photograph on &quot;America&apos;s Most Wanted.&quot;</string>
+		<key>noun</key>
+		<string></string>
+		<key>nounDescription</key>
+		<string></string>
+		<key>adj</key>
+		<string></string>
+		<key>adjDescription</key>
+		<string></string>
+	</dict>
+	<dict>
+		<key>word</key>
+		<string>absolute</string>
+		<key>verb</key>
+		<string></string>
+		<key>verbDescription</key>
+		<string></string>
+		<key>noun</key>
+		<string></string>
+		<key>nounDescription</key>
+		<string></string>
+		<key>adj</key>
+		<string>complete; totally unlimited; certain.</string>
+		<key>adjDescription</key>
+		<string>Although the King of Siam was an absolute monarch, he did not want to behead his unfaithful wife without absolute evidence of her infidelity.</string>
+	</dict>
+	<dict>
+		<key>word</key>
+		<string>absolve</string>
+		<key>verb</key>
+		<string>pardon (an offense)</string>
+		<key>verbDescription</key>
+		<string>The father confessor absolved him of his sins.</string>
+		<key>noun</key>
+		<string></string>
+		<key>nounDescription</key>
+		<string></string>
+		<key>adj</key>
+		<string></string>
+		<key>adjDescription</key>
+		<string></string>
+	</dict>
+	<dict>
+		<key>word</key>
+		<string>absorb</string>
+		<key>verb</key>
+		<string>assimilate or incorporate; suck or drink up; wholly engage.</string>
+		<key>verbDescription</key>
+		<string>During the nineteenth century, America absorbed hordes of immigrants, turning them into productive citizens. Can Huggies diapers absorb more liquid than Pampers can? This question does not absorb me; instead, it bores me.</string>
+		<key>noun</key>
+		<string></string>
+		<key>nounDescription</key>
+		<string></string>
+		<key>adj</key>
+		<string></string>
+		<key>adjDescription</key>
+		<string></string>
+	</dict>
+	<dict>
+		<key>word</key>
+		<string>abstain</string>
+		<key>verb</key>
+		<string>refrain; hold oneself back voluntarily from an action or practice.</string>
+		<key>verbDescription</key>
+		<string>After considering the effect of alcohol on his athletic performance, he decided to abstain from drinking while he trained for the race. </string>
+		<key>noun</key>
+		<string></string>
+		<key>nounDescription</key>
+		<string></string>
+		<key>adj</key>
+		<string></string>
+		<key>adjDescription</key>
+		<string></string>
+	</dict>
+	<dict>
+		<key>word</key>
+		<string>abstemious</string>
+		<key>verb</key>
+		<string></string>
+		<key>verbDescription</key>
+		<string></string>
+		<key>noun</key>
+		<string></string>
+		<key>nounDescription</key>
+		<string></string>
+		<key>adj</key>
+		<string>sparing in eating and drinking; temperate.</string>
+		<key>adjDescription</key>
+		<string>Concerned whether her vegetarian son&apos;s abstemious diet provided him with sufficient protein, the worried mother pressed food on him.</string>
+	</dict>
+	<dict>
+		<key>word</key>
+		<string>abstinence</string>
+		<key>verb</key>
+		<string></string>
+		<key>verbDescription</key>
+		<string></string>
+		<key>noun</key>
+		<string>restraint from eating or drinking. </string>
+		<key>nounDescription</key>
+		<string>The doctor recommended total abstinence from salted foods.</string>
+		<key>adj</key>
+		<string></string>
+		<key>adjDescription</key>
+		<string></string>
+	</dict>
+	<dict>
+		<key>word</key>
+		<string>abstract</string>
+		<key>verb</key>
+		<string></string>
+		<key>verbDescription</key>
+		<string></string>
+		<key>noun</key>
+		<string></string>
+		<key>nounDescription</key>
+		<string></string>
+		<key>adj</key>
+		<string>theoretical; not concrete; nonrepresentational. </string>
+		<key>adjDescription</key>
+		<string>To him, hunger was an abstract concept; he had never missed a meal.</string>
+	</dict>
+	<dict>
+		<key>word</key>
+		<string>abstruse</string>
+		<key>verb</key>
+		<string></string>
+		<key>verbDescription</key>
+		<string></string>
+		<key>noun</key>
+		<string></string>
+		<key>nounDescription</key>
+		<string></string>
+		<key>adj</key>
+		<string>obscure; profound; difficult to understand.</string>
+		<key>adjDescription</key>
+		<string>She carries around abstruse works of philosophy, not because she understands them but because she wants her friends to think she does.</string>
+	</dict>
+	<dict>
+		<key>word</key>
+		<string>abundant</string>
+		<key>verb</key>
+		<string></string>
+		<key>verbDescription</key>
+		<string></string>
+		<key>noun</key>
+		<string></string>
+		<key>nounDescription</key>
+		<string></string>
+		<key>adj</key>
+		<string>plentiful; possessing riches or resources.</string>
+		<key>adjDescription</key>
+		<string>At his immigration interview, Ivan listed his abundant reasons for coming to America: the hope of religious freedom, the prospect of employment, the promise of a more abundant life.</string>
+	</dict>
+	<dict>
+		<key>word</key>
+		<string>abusive</string>
+		<key>verb</key>
+		<string></string>
+		<key>verbDescription</key>
+		<string></string>
+		<key>noun</key>
+		<string></string>
+		<key>nounDescription</key>
+		<string></string>
+		<key>adj</key>
+		<string>coarsely insulting; physically harmful. </string>
+		<key>adjDescription</key>
+		<string>An abusive parent damages a child both mentally and physically.</string>
+	</dict>
+	<dict>
+		<key>word</key>
+		<string>abut</string>
+		<key>verb</key>
+		<string>border upon; adjoin.</string>
+		<key>verbDescription</key>
+		<string>Where our estates abut, we must build a fence.</string>
+		<key>noun</key>
+		<string></string>
+		<key>nounDescription</key>
+		<string></string>
+		<key>adj</key>
+		<string></string>
+		<key>adjDescription</key>
+		<string></string>
+	</dict>
+	<dict>
+		<key>word</key>
+		<string>abysmal</string>
+		<key>verb</key>
+		<string></string>
+		<key>verbDescription</key>
+		<string></string>
+		<key>noun</key>
+		<string></string>
+		<key>nounDescription</key>
+		<string></string>
+		<key>adj</key>
+		<string>bottomless</string>
+		<key>adjDescription</key>
+		<string>His arrogance is exceeded only by his abysmal ignorance.</string>
+	</dict>
+	<dict>
+		<key>word</key>
+		<string>abyss</string>
+		<key>verb</key>
+		<string></string>
+		<key>verbDescription</key>
+		<string></string>
+		<key>noun</key>
+		<string>enormous chasm; vast bottomless pit.</string>
+		<key>nounDescription</key>
+		<string>Darth Vader seized the evil emperor and hurled him down into the abyss.</string>
+		<key>adj</key>
+		<string></string>
+		<key>adjDescription</key>
+		<string></string>
+	</dict>
+	<dict>
+		<key>word</key>
+		<string>academic</string>
+		<key>verb</key>
+		<string></string>
+		<key>verbDescription</key>
+		<string></string>
+		<key>noun</key>
+		<string></string>
+		<key>nounDescription</key>
+		<string></string>
+		<key>adj</key>
+		<string>related to a school; not practical or directly useful.</string>
+		<key>adjDescription</key>
+		<string>The dean&apos;s talk about reforming the college admissions system was only an academic discussion: we knew little, if anything, would change.</string>
+	</dict>
+	<dict>
+		<key>word</key>
+		<string>accede</string>
+		<key>verb</key>
+		<string>agree</string>
+		<key>verbDescription</key>
+		<string>f I accede to this demand for blackmail, I am afraid that I will be the victim of future demands.</string>
+		<key>noun</key>
+		<string></string>
+		<key>nounDescription</key>
+		<string></string>
+		<key>adj</key>
+		<string></string>
+		<key>adjDescription</key>
+		<string></string>
+	</dict>
+	<dict>
+		<key>word</key>
+		<string>accelerate</string>
+		<key>verb</key>
+		<string>movefaster.</string>
+		<key>verbDescription</key>
+		<string>In our science class, we learn how falling bodies accelerate.</string>
+		<key>noun</key>
+		<string></string>
+		<key>nounDescription</key>
+		<string></string>
+		<key>adj</key>
+		<string></string>
+		<key>adjDescription</key>
+		<string></string>
+	</dict>
+	<dict>
+		<key>word</key>
+		<string>accentuate</string>
+		<key>verb</key>
+		<string>emphasize; stress.</string>
+		<key>verbDescription</key>
+		<string>If you accentuate the positive and eliminate the negative, you may wind up with an overoptimistic view of the world.</string>
+		<key>noun</key>
+		<string></string>
+		<key>nounDescription</key>
+		<string></string>
+		<key>adj</key>
+		<string></string>
+		<key>adjDescription</key>
+		<string></string>
+	</dict>
+	<dict>
+		<key>word</key>
+		<string>accessible</string>
+		<key>verb</key>
+		<string></string>
+		<key>verbDescription</key>
+		<string></string>
+		<key>noun</key>
+		<string></string>
+		<key>nounDescription</key>
+		<string></string>
+		<key>adj</key>
+		<string>easy to approach; obtainable.</string>
+		<key>adjDescription</key>
+		<string> We asked our guide whether the ruins were accessible on foot.</string>
+	</dict>
+	<dict>
+		<key>word</key>
+		<string>accessory</string>
+		<key>verb</key>
+		<string></string>
+		<key>verbDescription</key>
+		<string></string>
+		<key>noun</key>
+		<string>additional object; useful but not essential thing.</string>
+		<key>nounDescription</key>
+		<string>She bought an attractive handbag as an accessory for her dress.</string>
+		<key>adj</key>
+		<string></string>
+		<key>adjDescription</key>
+		<string></string>
+	</dict>
+	<dict>
+		<key>word</key>
+		<string>acclaim</string>
+		<key>verb</key>
+		<string>applaud; announce with great approval. </string>
+		<key>verbDescription</key>
+		<string>The NBC sportscasters acclaimed every American victoryintheOlympicsanddecriedeveryAmericandefeat.</string>
+		<key>noun</key>
+		<string></string>
+		<key>nounDescription</key>
+		<string></string>
+		<key>adj</key>
+		<string></string>
+		<key>adjDescription</key>
+		<string></string>
+	</dict>
+	<dict>
+		<key>word</key>
+		<string>acclimate</string>
+		<key>verb</key>
+		<string>adjust to climate. </string>
+		<key>verbDescription</key>
+		<string>One of the difficulties of our present air age is the need of travelers to acclimate themselves to their new and often strange environments.</string>
+		<key>noun</key>
+		<string></string>
+		<key>nounDescription</key>
+		<string></string>
+		<key>adj</key>
+		<string></string>
+		<key>adjDescription</key>
+		<string></string>
+	</dict>
+	<dict>
+		<key>word</key>
+		<string>acclivity</string>
+		<key>verb</key>
+		<string></string>
+		<key>verbDescription</key>
+		<string></string>
+		<key>noun</key>
+		<string>sharp upslope of a hill.</string>
+		<key>nounDescription</key>
+		<string>The car would not go up the acclivity in high gear.</string>
+		<key>adj</key>
+		<string></string>
+		<key>adjDescription</key>
+		<string></string>
+	</dict>
+	<dict>
+		<key>word</key>
+		<string>accolade</string>
+		<key>verb</key>
+		<string></string>
+		<key>verbDescription</key>
+		<string></string>
+		<key>noun</key>
+		<string>award of merit.</string>
+		<key>nounDescription</key>
+		<string>In Hollywood, an &quot;Oscar&quot; is the highest accolade.</string>
+		<key>adj</key>
+		<string></string>
+		<key>adjDescription</key>
+		<string></string>
+	</dict>
+	<dict>
+		<key>word</key>
+		<string>accommodate</string>
+		<key>verb</key>
+		<string>oblige or help someone; adjust or bring into harmony; adapt. </string>
+		<key>verbDescription</key>
+		<string>Mitch always did everything possible to accommodate his elderly relatives, from driving them to medical appointments to helping them with paperwork.</string>
+		<key>noun</key>
+		<string></string>
+		<key>nounDescription</key>
+		<string></string>
+		<key>adj</key>
+		<string></string>
+		<key>adjDescription</key>
+		<string></string>
+	</dict>
+	<dict>
+		<key>word</key>
+		<string>accomplice</string>
+		<key>verb</key>
+		<string></string>
+		<key>verbDescription</key>
+		<string></string>
+		<key>noun</key>
+		<string>partner in crime.</string>
+		<key>nounDescription</key>
+		<string>Because he had provided the criminal with the lethal weapon, he was arrested as an accomplice in the murder.</string>
+		<key>adj</key>
+		<string></string>
+		<key>adjDescription</key>
+		<string></string>
+	</dict>
+	<dict>
+		<key>word</key>
+		<string>accord</string>
+		<key>verb</key>
+		<string></string>
+		<key>verbDescription</key>
+		<string></string>
+		<key>noun</key>
+		<string>agreement</string>
+		<key>nounDescription</key>
+		<string>She was in complete accord with the verdict.</string>
+		<key>adj</key>
+		<string></string>
+		<key>adjDescription</key>
+		<string></string>
+	</dict>
+	<dict>
+		<key>word</key>
+		<string>accost</string>
+		<key>verb</key>
+		<string>approach and speak first to a person.</string>
+		<key>verbDescription</key>
+		<string>When the two young men accosted me, I was frightened because I thought they were going to attack me.</string>
+		<key>noun</key>
+		<string></string>
+		<key>nounDescription</key>
+		<string></string>
+		<key>adj</key>
+		<string></string>
+		<key>adjDescription</key>
+		<string></string>
+	</dict>
+	<dict>
+		<key>word</key>
+		<string>accoutre</string>
+		<key>verb</key>
+		<string>equip.</string>
+		<key>verbDescription</key>
+		<string>The fisherman was accoutred with the best that the sporting goods store could supply.</string>
+		<key>noun</key>
+		<string></string>
+		<key>nounDescription</key>
+		<string></string>
+		<key>adj</key>
+		<string></string>
+		<key>adjDescription</key>
+		<string></string>
+	</dict>
+	<dict>
+		<key>word</key>
+		<string>accretion</string>
+		<key>verb</key>
+		<string></string>
+		<key>verbDescription</key>
+		<string></string>
+		<key>noun</key>
+		<string>growth; increase. </string>
+		<key>nounDescription</key>
+		<string>The accretion of wealth marked the family&apos;s rise in power.
+</string>
+		<key>adj</key>
+		<string></string>
+		<key>adjDescription</key>
+		<string></string>
+	</dict>
+	<dict>
+		<key>word</key>
+		<string>accrue</string>
+		<key>verb</key>
+		<string>come about by addition.</string>
+		<key>verbDescription</key>
+		<string>You must pay the interest that has accrued on your debt as well as the principal sum.</string>
+		<key>noun</key>
+		<string></string>
+		<key>nounDescription</key>
+		<string></string>
+		<key>adj</key>
+		<string></string>
+		<key>adjDescription</key>
+		<string></string>
+	</dict>
+	<dict>
+		<key>word</key>
+		<string>acerbity</string>
+		<key>verb</key>
+		<string></string>
+		<key>verbDescription</key>
+		<string></string>
+		<key>noun</key>
+		<string>bitterness of speech and temper. </string>
+		<key>nounDescription</key>
+		<string>The meeting of the United Nations General Assembly was marked with such acerbity that informed sources held out little hope of reaching any useful settlement of the problem.</string>
+		<key>adj</key>
+		<string></string>
+		<key>adjDescription</key>
+		<string></string>
+	</dict>
+	<dict>
+		<key>word</key>
+		<string>acetic</string>
+		<key>verb</key>
+		<string></string>
+		<key>verbDescription</key>
+		<string></string>
+		<key>noun</key>
+		<string></string>
+		<key>nounDescription</key>
+		<string></string>
+		<key>adj</key>
+		<string>vinegary</string>
+		<key>adjDescription</key>
+		<string>The salad had an exceedingly acetic flavor.</string>
+	</dict>
+	<dict>
+		<key>word</key>
+		<string>acidulous</string>
+		<key>verb</key>
+		<string></string>
+		<key>verbDescription</key>
+		<string></string>
+		<key>noun</key>
+		<string></string>
+		<key>nounDescription</key>
+		<string></string>
+		<key>adj</key>
+		<string>slightly sour; sharp, caustic.</string>
+		<key>adjDescription</key>
+		<string>James was unpopular because of his sarcastic and acidulous remarks.</string>
+	</dict>
+	<dict>
+		<key>word</key>
+		<string>acknowledge</string>
+		<key>verb</key>
+		<string>recognize; admit.</string>
+		<key>verbDescription</key>
+		<string>Although I acknowledge that the Beatles&apos; tunes sound pretty dated today, I still prefer them to the &quot;gangsta rap&quot; songs my brothers play.</string>
+		<key>noun</key>
+		<string></string>
+		<key>nounDescription</key>
+		<string></string>
+		<key>adj</key>
+		<string></string>
+		<key>adjDescription</key>
+		<string></string>
+	</dict>
+	<dict>
+		<key>word</key>
+		<string>acme</string>
+		<key>verb</key>
+		<string></string>
+		<key>verbDescription</key>
+		<string></string>
+		<key>noun</key>
+		<string>top; pinnacle.</string>
+		<key>nounDescription</key>
+		<string> His success in this role marked the acme of his career as an actor.
+</string>
+		<key>adj</key>
+		<string></string>
+		<key>adjDescription</key>
+		<string></string>
+	</dict>
+	<dict>
+		<key>word</key>
+		<string>acoustics</string>
+		<key>verb</key>
+		<string></string>
+		<key>verbDescription</key>
+		<string></string>
+		<key>noun</key>
+		<string>science of sound; quality that makes a room easy or hard to hear in.</string>
+		<key>nounDescription</key>
+		<string>Carnegie Hall is liked by music lovers because of its fine acoustics.</string>
+		<key>adj</key>
+		<string></string>
+		<key>adjDescription</key>
+		<string></string>
+	</dict>
+	<dict>
+		<key>word</key>
+		<string>acquiesce</string>
+		<key>verb</key>
+		<string>assent; agree without protesting.</string>
+		<key>verbDescription</key>
+		<string>Although she appeared to acquiesce to her employer&apos;s suggestions, I could tell she had reservations about the changes he wanted made.</string>
+		<key>noun</key>
+		<string></string>
+		<key>nounDescription</key>
+		<string></string>
+		<key>adj</key>
+		<string></string>
+		<key>adjDescription</key>
+		<string></string>
+	</dict>
+	<dict>
+		<key>word</key>
+		<string>acquire</string>
+		<key>verb</key>
+		<string>btain; get.</string>
+		<key>verbDescription</key>
+		<string>Frederick Douglass was determined to acquire an education despite his master&apos;s efforts to prevent his doing so.</string>
+		<key>noun</key>
+		<string></string>
+		<key>nounDescription</key>
+		<string></string>
+		<key>adj</key>
+		<string></string>
+		<key>adjDescription</key>
+		<string></string>
+	</dict>
+	<dict>
+		<key>word</key>
+		<string>acquittal</string>
+		<key>verb</key>
+		<string></string>
+		<key>verbDescription</key>
+		<string></string>
+		<key>noun</key>
+		<string>deliverance from a charge.</string>
+		<key>nounDescription</key>
+		<string>His acquittal by the jury surprised those who had thought him guilty. </string>
+		<key>adj</key>
+		<string></string>
+		<key>adjDescription</key>
+		<string></string>
+	</dict>
+	<dict>
+		<key>word</key>
+		<string>acrid</string>
+		<key>verb</key>
+		<string></string>
+		<key>verbDescription</key>
+		<string></string>
+		<key>noun</key>
+		<string></string>
+		<key>nounDescription</key>
+		<string></string>
+		<key>adj</key>
+		<string>sharp; bitterly pungent.</string>
+		<key>adjDescription</key>
+		<string>The acrid odor of burnt gunpowder filled the room after the pistol had been fired.</string>
+	</dict>
+	<dict>
+		<key>word</key>
+		<string>acrimonious</string>
+		<key>verb</key>
+		<string></string>
+		<key>verbDescription</key>
+		<string></string>
+		<key>noun</key>
+		<string></string>
+		<key>nounDescription</key>
+		<string></string>
+		<key>adj</key>
+		<string>bitter in words or manner.</string>
+		<key>adjDescription</key>
+		<string>The candidate attacked his opponent in highly acrimonious terms.</string>
+	</dict>
+	<dict>
+		<key>word</key>
+		<string>acrophobia</string>
+		<key>verb</key>
+		<string></string>
+		<key>verbDescription</key>
+		<string></string>
+		<key>noun</key>
+		<string>fear of heights.</string>
+		<key>nounDescription</key>
+		<string>A born salesman, he could convince someone with a bad case of acrophobia
+to sign up for a life membership in a sky-diving club.
+</string>
+		<key>adj</key>
+		<string></string>
+		<key>adjDescription</key>
+		<string></string>
+	</dict>
+	<dict>
+		<key>word</key>
+		<string>actuarial</string>
+		<key>verb</key>
+		<string></string>
+		<key>verbDescription</key>
+		<string></string>
+		<key>noun</key>
+		<string></string>
+		<key>nounDescription</key>
+		<string></string>
+		<key>adj</key>
+		<string>calculating; pertaining to insurance statistics.</string>
+		<key>adjDescription</key>
+		<string>According to recent actuarial tables, life expectancy is greater today than it was a century ago.</string>
+	</dict>
+	<dict>
+		<key>word</key>
+		<string>actuate</string>
+		<key>verb</key>
+		<string>motivate.</string>
+		<key>verbDescription</key>
+		<string>I fail to understand what actuated you to reply to this letter so nastily.</string>
+		<key>noun</key>
+		<string></string>
+		<key>nounDescription</key>
+		<string></string>
+		<key>adj</key>
+		<string></string>
+		<key>adjDescription</key>
+		<string></string>
+	</dict>
+	<dict>
+		<key>word</key>
+		<string>acuity</string>
+		<key>verb</key>
+		<string></string>
+		<key>verbDescription</key>
+		<string></string>
+		<key>noun</key>
+		<string>sharpness.</string>
+		<key>nounDescription</key>
+		<string>In time his youthful acuity of vision failed him, and he needed glasses.</string>
+		<key>adj</key>
+		<string></string>
+		<key>adjDescription</key>
+		<string></string>
+	</dict>
+	<dict>
+		<key>word</key>
+		<string>acumen</string>
+		<key>verb</key>
+		<string></string>
+		<key>verbDescription</key>
+		<string></string>
+		<key>noun</key>
+		<string>mental keenness. </string>
+		<key>nounDescription</key>
+		<string>His business acumen helped him to succeed where others had failed.</string>
+		<key>adj</key>
+		<string></string>
+		<key>adjDescription</key>
+		<string></string>
+	</dict>
+	<dict>
+		<key>word</key>
+		<string>acute</string>
+		<key>verb</key>
+		<string></string>
+		<key>verbDescription</key>
+		<string></string>
+		<key>noun</key>
+		<string></string>
+		<key>nounDescription</key>
+		<string></string>
+		<key>adj</key>
+		<string>quickly perceptive; keen; brief and severe.</string>
+		<key>adjDescription</key>
+		<string>he acute young doctor realized immediately that the gradual deterioration of her patient&apos;s once acute hearing was due to a chronic illness, not an acute one.</string>
+	</dict>
+	<dict>
+		<key>word</key>
+		<string>adage</string>
+		<key>verb</key>
+		<string></string>
+		<key>verbDescription</key>
+		<string></string>
+		<key>noun</key>
+		<string>wise saying; proverb.</string>
+		<key>nounDescription</key>
+		<string>There is much truth in the old adage about fools and their money.</string>
+		<key>adj</key>
+		<string></string>
+		<key>adjDescription</key>
+		<string></string>
+	</dict>
+	<dict>
+		<key>word</key>
+		<string>adamant</string>
+		<key>verb</key>
+		<string></string>
+		<key>verbDescription</key>
+		<string></string>
+		<key>noun</key>
+		<string></string>
+		<key>nounDescription</key>
+		<string></string>
+		<key>adj</key>
+		<string>hard; inflexible. </string>
+		<key>adjDescription</key>
+		<string>Bronson played the part of a revenge-driven man, adamant in his determination to punish the criminals who destroyed his family.</string>
+	</dict>
+	<dict>
+		<key>word</key>
+		<string>adapt</string>
+		<key>verb</key>
+		<string>alter; modify.</string>
+		<key>verbDescription</key>
+		<string>Some species of animals have become extinct because they could not adapt to a changing environment.</string>
+		<key>noun</key>
+		<string></string>
+		<key>nounDescription</key>
+		<string></string>
+		<key>adj</key>
+		<string></string>
+		<key>adjDescription</key>
+		<string></string>
+	</dict>
+	<dict>
+		<key>word</key>
+		<string>addendum</string>
+		<key>verb</key>
+		<string></string>
+		<key>verbDescription</key>
+		<string></string>
+		<key>noun</key>
+		<string>an addition or supplement. </string>
+		<key>nounDescription</key>
+		<string>As an addendum to the minutes, let me point out that Susan moved to appoint Kathy and Arthur to the finance committee.</string>
+		<key>adj</key>
+		<string></string>
+		<key>adjDescription</key>
+		<string></string>
+	</dict>
+	<dict>
+		<key>word</key>
+		<string>addiction</string>
+		<key>verb</key>
+		<string></string>
+		<key>verbDescription</key>
+		<string></string>
+		<key>noun</key>
+		<string>compulsive, habitual need.</string>
+		<key>nounDescription</key>
+		<string>His addiction to drugs caused his friends much grief.</string>
+		<key>adj</key>
+		<string></string>
+		<key>adjDescription</key>
+		<string></string>
+	</dict>
+	<dict>
+		<key>word</key>
+		<string>addle</string>
+		<key>verb</key>
+		<string>muddle; drive crazy; become rotten.</string>
+		<key>verbDescription</key>
+		<string>This idiotic plan is confusing enough to addle anyone.</string>
+		<key>noun</key>
+		<string></string>
+		<key>nounDescription</key>
+		<string></string>
+		<key>adj</key>
+		<string></string>
+		<key>adjDescription</key>
+		<string></string>
+	</dict>
+	<dict>
+		<key>word</key>
+		<string>address</string>
+		<key>verb</key>
+		<string>direct a speech to; deal with or discuss.</string>
+		<key>verbDescription</key>
+		<string>Due to address the convention in July, Brown planned to address the issue of low-income housing in his speech.</string>
+		<key>noun</key>
+		<string></string>
+		<key>nounDescription</key>
+		<string></string>
+		<key>adj</key>
+		<string></string>
+		<key>adjDescription</key>
+		<string></string>
+	</dict>
+	<dict>
+		<key>word</key>
+		<string>adept</string>
+		<key>verb</key>
+		<string></string>
+		<key>verbDescription</key>
+		<string></string>
+		<key>noun</key>
+		<string></string>
+		<key>nounDescription</key>
+		<string></string>
+		<key>adj</key>
+		<string>expert at</string>
+		<key>adjDescription</key>
+		<string>She was adept at the fine art of irritating people.</string>
+	</dict>
+	<dict>
+		<key>word</key>
+		<string>adhere</string>
+		<key>verb</key>
+		<string>stick fast.</string>
+		<key>verbDescription</key>
+		<string> I will adhere to this opinion until proof that I am wrong is presented.</string>
+		<key>noun</key>
+		<string>adhesion</string>
+		<key>nounDescription</key>
+		<string></string>
+		<key>adj</key>
+		<string></string>
+		<key>adjDescription</key>
+		<string></string>
+	</dict>
+	<dict>
+		<key>word</key>
+		<string>adherent</string>
+		<key>verb</key>
+		<string></string>
+		<key>verbDescription</key>
+		<string></string>
+		<key>noun</key>
+		<string>supporter; follower.</string>
+		<key>nounDescription</key>
+		<string>In the wake of the scandal, the senator&apos;s one-time adherents quickly deserted him.</string>
+		<key>adj</key>
+		<string></string>
+		<key>adjDescription</key>
+		<string></string>
+	</dict>
+	<dict>
+		<key>word</key>
+		<string>adjacent</string>
+		<key>verb</key>
+		<string></string>
+		<key>verbDescription</key>
+		<string></string>
+		<key>noun</key>
+		<string></string>
+		<key>nounDescription</key>
+		<string></string>
+		<key>adj</key>
+		<string>adjoining; neighboring; close by.</string>
+		<key>adjDescription</key>
+		<string>Philip&apos;s best friend Jason lived only four houses down the block, close but not immediately adjacent.</string>
+	</dict>
+	<dict>
+		<key>word</key>
+		<string>adjunct</string>
+		<key>verb</key>
+		<string></string>
+		<key>verbDescription</key>
+		<string></string>
+		<key>noun</key>
+		<string>something added on or attached (generally nonessential or inferior). </string>
+		<key>nounDescription</key>
+		<string>Although I don&apos;t absolutely need a second computer, I plan to buy a laptop to serve as an adjunct to my desktop model.</string>
+		<key>adj</key>
+		<string></string>
+		<key>adjDescription</key>
+		<string></string>
+	</dict>
+	<dict>
+		<key>word</key>
+		<string>admonish</string>
+		<key>verb</key>
+		<string>warn; reprove. </string>
+		<key>verbDescription</key>
+		<string>He admonished his listeners to change their wicked ways.</string>
+		<key>noun</key>
+		<string>admonition</string>
+		<key>nounDescription</key>
+		<string></string>
+		<key>adj</key>
+		<string></string>
+		<key>adjDescription</key>
+		<string></string>
+	</dict>
+	<dict>
+		<key>word</key>
+		<string>admonition</string>
+		<key>verb</key>
+		<string></string>
+		<key>verbDescription</key>
+		<string></string>
+		<key>noun</key>
+		<string>warning.</string>
+		<key>nounDescription</key>
+		<string>After the student protesters repeatedly rejected Chairman Deng&apos;s admonitions, the government issued an ultimatum: either the students would end the demonstration at once or the soldiers would fire on the crowd.</string>
+		<key>adj</key>
+		<string></string>
+		<key>adjDescription</key>
+		<string></string>
+	</dict>
+	<dict>
+		<key>word</key>
+		<string>adorn</string>
+		<key>verb</key>
+		<string>decorate.</string>
+		<key>verbDescription</key>
+		<string>Wall paintings and carved statues adorned the temple.</string>
+		<key>noun</key>
+		<string>adornment</string>
+		<key>nounDescription</key>
+		<string></string>
+		<key>adj</key>
+		<string></string>
+		<key>adjDescription</key>
+		<string></string>
+	</dict>
+	<dict>
+		<key>word</key>
+		<string>adroit</string>
+		<key>verb</key>
+		<string></string>
+		<key>verbDescription</key>
+		<string></string>
+		<key>noun</key>
+		<string></string>
+		<key>nounDescription</key>
+		<string></string>
+		<key>adj</key>
+		<string>skillful.</string>
+		<key>adjDescription</key>
+		<string>His adroit handling of the delicate situation pleased his employers.</string>
+	</dict>
+</array>
+</plist>

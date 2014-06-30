@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<model userDefinedModelVersionIdentifier="" type="com.apple.IDECoreDataModeler.DataModel" documentVersion="1.0" lastSavedToolsVersion="3396" systemVersion="13C1021" minimumToolsVersion="Xcode 4.3" macOSVersion="Automatic" iOSVersion="Automatic">
+    <entity name="Groups" representedClassName="Groups" syncable="YES">
+        <attribute name="groups" optional="YES" attributeType="String" syncable="YES"/>
+        <relationship name="wordRelation" optional="YES" toMany="YES" deletionRule="Nullify" destinationEntity="Word" inverseName="groupRelation" inverseEntity="Word" syncable="YES"/>
+    </entity>
+    <entity name="Word" representedClassName="Word" syncable="YES">
+        <attribute name="adj" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="adjDescription" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="favourite" optional="YES" attributeType="Boolean" syncable="YES"/>
+        <attribute name="noun" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="nounDescription" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="verb" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="verbDescription" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="word" optional="YES" attributeType="String" syncable="YES"/>
+        <relationship name="groupRelation" optional="YES" toMany="YES" deletionRule="Nullify" destinationEntity="Groups" inverseName="wordRelation" inverseEntity="Groups" syncable="YES"/>
+    </entity>
+    <elements>
+        <element name="Groups" positionX="-162" positionY="153" width="128" height="73"/>
+        <element name="Word" positionX="160" positionY="192" width="128" height="163"/>
+    </elements>
+</model>

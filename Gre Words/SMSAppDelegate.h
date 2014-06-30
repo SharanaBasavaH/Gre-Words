@@ -8,8 +8,16 @@
 
 #import <UIKit/UIKit.h>
 
-@interface SMSAppDelegate : UIResponder <UIApplicationDelegate>
+@interface SMSAppDelegate : UIResponder <UIApplicationDelegate,UITabBarControllerDelegate>{
+    UITabBarController *tabBar;
+
+}
 
 @property (strong, nonatomic) UIWindow *window;
+@property (strong, nonatomic) UIColor *backGroundColor;
+
++ (SMSAppDelegate *)appDelegate;
+- (void) setNavigationBarBackGroundColor:(UINavigationController*) navBar;
+
 
 @end
